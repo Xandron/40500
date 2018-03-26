@@ -1,0 +1,10 @@
+.main-wrapper {
+    width: 1200px;
+    margin: 0 auto;
+    font-size: 18px;
+    color: #ffffff;
+}
+.header-bcq{
+    background: url("../resources/Layer 13.png") no-repeat center #0c0623;
+    min-height: 688px;
+}

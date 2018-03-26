@@ -1,0 +1,24 @@
+.nav-item {
+    margin-right: 34px;
+}
+.logo {
+    font-size: 68px;
+}
+.logo-text-wrapper{
+    margin-left: 100px;
+    min-width:;
+}
+.logo-text {
+    font-size: 90px;
+    color: #ffffff;
+}
+.logo-text-part1 {
+    color: #5dbbc1;
+    margin-bottom: 0;
+}
+
+.login-wrapper {
+    background: #5dbbc1;
+    min-width: 400px;
+    height: 100%;
+}
